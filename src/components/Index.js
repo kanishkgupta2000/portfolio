@@ -4,7 +4,7 @@ const Index = () => {
     return (
       <Fragment>
 <section id="home-section" className="hero">
-<h1 className="vr text-center">Evans</h1>
+<h1 className="vr text-center">Kanishk</h1>
 <div className="js-fullheight home-wrap d-flex">
 <div className="half order-md-last"></div>
 <div className="half">
@@ -37,7 +37,7 @@ const Index = () => {
 <div className="row justify-content-end">
 <div className="col-md-8">
 <h2>Web <span>Developer</span>, hobbyist, Competitive Coder, and computer science undergrad of  <span>Netaji Subhas University Of Technology</span></h2>
-<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+<p>Involved in Web Development projects created via MERN stack,helping create multi page Web applications for budding organizations.</p>
 </div>
 </div>
 </div>
@@ -47,7 +47,7 @@ const Index = () => {
 <section className="services-section py-5 py-md-0">
 <div className="container">
 <div className="row no-gutters d-flex">
-<div className="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+{/* <div className="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
 <div className="media block-6 services d-block">
 <div className="icon"><span className="flaticon-layers"></span></div>
 <div className="media-body">
@@ -55,83 +55,37 @@ const Index = () => {
 <p> 203 Fake St. Mountain View, San Francisco, California, USA</p>
 </div>
 </div>
-</div>
-<div className="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+</div> */}
+<div className="col-md-6 col-lg-4 d-flex align-self-stretch ftco-animate">
 <div className="media block-6 services active d-block">
 <div className="icon"><span className="flaticon-web-programming"></span></div>
 <div className="media-body">
 <h3 className="heading mb-3">Web Development</h3>
-<p>A small river named Duden flows by their place and supplies.</p>
+<p>Interested in making Full Stack web applications</p>
 </div>
 </div>
 </div>
-<div className="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+<div className="col-md-6 col-lg-4 d-flex align-self-stretch ftco-animate">
 <div className="media block-6 services d-block">
 <div className="icon"><span className="flaticon-idea"></span></div>
 <div className="media-body">
-<h3 className="heading mb-3">Graphic Design</h3>
-<p>A small river named Duden flows by their place and supplies.</p>
+<h3 className="heading mb-3">Competitive Coding</h3>
+<p>Decent Command over Data Structures and Algorithms and actively keep myself busy with tough questions</p>
 </div>
 </div>
 </div>
-<div className="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+<div className="col-md-6 col-lg-4 d-flex align-self-stretch ftco-animate">
 <div className="media block-6 services active-2 d-block">
 <div className="icon"><span className="flaticon-contract"></span></div>
 <div className="media-body">
-<h3 className="heading mb-3">Writing</h3>
-<p>A small river named Duden flows by their place and supplies.</p>
+<h3 className="heading mb-3">Debating</h3>
+<p>Member of the India's delegation representing the Republic of the Philippines to the <strong>65th Harvard National Model United Nations,</strong>in the Economic and Financial Committee Boston,USA</p>
 </div>
 </div>
 </div>
 </div>
 </div>
 </section>
-<div className="container">
-        <p className="my-0">HTML5</p>
-        <div className="level1">
-          <div className="skills html">90%</div>
-        </div>
-
-        <p className="my-0">CSS3</p>
-        <div className="level1">
-          <div className="skills css" style={{height:"30%"}}>65%</div>
-        </div>
-
-        <p className="my-0">Bootstrap</p>
-        <div className="level1">
-          <div className="skills bs">60%</div>
-        </div>
-
-        <p className="my-0">JavaScript</p>
-        <div className="level1">
-          <div className="skills jscript">70%</div>
-        </div>
-
-        <p className="my-0">NodeJS</p>
-        <div className="level1">
-          <div className="skills node">80%</div>
-        </div>
-
-        <p className="my-0">SQL</p>
-        <div className="level1">
-          <div className="skills sql">50%</div>
-        </div>
-
-        <p className="my-0">MongoDB</p>
-        <div className="level1">
-          <div className="skills mongo">85%</div>
-        </div>
-
-        <p className="my-0">ReactJS</p>
-        <div className="level1">
-          <div className="skills react">60%</div>
-        </div>
-
-        <p className="my-0">Websockets</p>
-        <div className="level1">
-          <div className="skills socket">75%</div>
-        </div>
-      </div>
 
 <section className="ftco-section ftco-portfolio">
 <div className="container-fluid">

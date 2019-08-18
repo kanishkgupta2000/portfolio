@@ -23,7 +23,7 @@ const About = () => {
 <div class="col-md-8 py-md-5 pt-4 p-md-5">
 <h2>Web <span>Designer</span>, hobbyist writer, and the CEO &amp; Founder of <span>Evans</span></h2>
 <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-<p><a href="#" class="btn btn-primary">Contact Us</a></p>
+<p><a href="/contact" class="btn btn-primary">Contact Us</a></p>
 </div>
 </div>
 </div>
@@ -70,6 +70,53 @@ const About = () => {
 </div>
 </div>
 </section>
+<div className="container">
+        <p className="my-0">HTML5</p>
+        <div className="level1">
+          <div className="skills html">90%</div>
+        </div>
+
+        <p className="my-0">CSS3</p>
+        <div className="level1">
+          <div className="skills css" style={{height:"30%"}}>65%</div>
+        </div>
+
+        <p className="my-0">Bootstrap</p>
+        <div className="level1">
+          <div className="skills bs">60%</div>
+        </div>
+
+        <p className="my-0">JavaScript</p>
+        <div className="level1">
+          <div className="skills jscript">70%</div>
+        </div>
+
+        <p className="my-0">NodeJS</p>
+        <div className="level1">
+          <div className="skills node">80%</div>
+        </div>
+
+        <p className="my-0">SQL</p>
+        <div className="level1">
+          <div className="skills sql">50%</div>
+        </div>
+
+        <p className="my-0">MongoDB</p>
+        <div className="level1">
+          <div className="skills mongo">85%</div>
+        </div>
+
+        <p className="my-0">ReactJS</p>
+        <div className="level1">
+          <div className="skills react">60%</div>
+        </div>
+
+        <p className="my-0">Websockets</p>
+        <div className="level1">
+          <div className="skills socket">75%</div>
+        </div>
+      </div>
+
 <section class="testimony-section">
 <div class="container">
 <div class="row ftco-animate justify-content-center">

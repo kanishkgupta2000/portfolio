@@ -8,8 +8,8 @@ const Contact = () => {
 <div class="container">
 <div class="row no-gutters slider-text js-fullheight align-items-end">
 <div class="col-md-9 ftco-animate pb-5">
-<h2 class="mb-3 bread">Contact Us</h2>
-<p class="breadcrumbs"><span class="mr-2"><a href="index-2.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>About us <i class="ion-ios-arrow-forward"></i></span></p>
+<h2 class="mb-3 bread">Contact Me</h2>
+<p class="breadcrumbs"><span class="mr-2"><a href="/home">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>About me <i class="ion-ios-arrow-forward"></i></span></p>
 </div>
 </div>
 </div>
@@ -23,7 +23,7 @@ const Contact = () => {
 <span class="icon-map-signs"></span>
 </div>
 <h3 class="mb-4">Address</h3>
-<p>198 West 21th Street, Suite 721 New York NY 10016</p>
+<p>J-7/137<br/>Rajouri Garden,<br/>New Delhi-110027,<br/>India</p>
 </div>
 </div>
 <div class="col-md-3 d-flex">
@@ -32,7 +32,7 @@ const Contact = () => {
 <span class="icon-phone2"></span>
 </div>
 <h3 class="mb-4">Contact Number</h3>
-<p><a href="tel://1234567920">+ 1235 2355 98</a></p>
+<p><a href="tel://1234567920">+91 9818533500</a></p>
 </div>
 </div>
 <div class="col-md-3 d-flex">
@@ -41,7 +41,7 @@ const Contact = () => {
 <span class="icon-paper-plane"></span>
 </div>
 <h3 class="mb-4">Email Address</h3>
-<p><a href="https://colorlib.com/cdn-cgi/l/email-protection#b9d0d7dfd6f9c0d6cccbcad0cddc97dad6d4"><span class="__cf_email__" data-cfemail="761f181019360f190304051f02135815191b">[email&#160;protected]</span></a></p>
+<p><a href="https://colorlib.com/cdn-cgi/l/email-protection#b9d0d7dfd6f9c0d6cccbcad0cddc97dad6d4"><span class="__cf_email__" data-cfemail="761f181019360f190304051f02135815191b">kanishkgupta2000@gmail.com</span></a></p>
 </div>
 </div>
 <div class="col-md-3 d-flex">

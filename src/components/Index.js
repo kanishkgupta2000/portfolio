@@ -86,50 +86,50 @@ const Index = () => {
 </div>
 </div>
 </section>
-<div class="container">
-        <p class="my-0">HTML5</p>
-        <div class="level1">
-          <div class="skills html">90%</div>
+<div className="container">
+        <p className="my-0">HTML5</p>
+        <div className="level1">
+          <div className="skills html">90%</div>
         </div>
 
-        <p class="my-0">CSS3</p>
-        <div class="level1">
-          <div class="skills css" style="height:30%">65%</div>
+        <p className="my-0">CSS3</p>
+        <div className="level1">
+          <div className="skills css" style={{height:"30%"}}>65%</div>
         </div>
 
-        <p class="my-0">Bootstrap</p>
-        <div class="level1">
-          <div class="skills bs">60%</div>
+        <p className="my-0">Bootstrap</p>
+        <div className="level1">
+          <div className="skills bs">60%</div>
         </div>
 
-        <p class="my-0">JavaScript</p>
-        <div class="level1">
-          <div class="skills jscript">70%</div>
+        <p className="my-0">JavaScript</p>
+        <div className="level1">
+          <div className="skills jscript">70%</div>
         </div>
 
-        <p class="my-0">NodeJS</p>
-        <div class="level1">
-          <div class="skills node">80%</div>
+        <p className="my-0">NodeJS</p>
+        <div className="level1">
+          <div className="skills node">80%</div>
         </div>
 
-        <p class="my-0">SQL</p>
-        <div class="level1">
-          <div class="skills sql">50%</div>
+        <p className="my-0">SQL</p>
+        <div className="level1">
+          <div className="skills sql">50%</div>
         </div>
 
-        <p class="my-0">MongoDB</p>
-        <div class="level1">
-          <div class="skills mongo">85%</div>
+        <p className="my-0">MongoDB</p>
+        <div className="level1">
+          <div className="skills mongo">85%</div>
         </div>
 
-        <p class="my-0">ReactJS</p>
-        <div class="level1">
-          <div class="skills react">60%</div>
+        <p className="my-0">ReactJS</p>
+        <div className="level1">
+          <div className="skills react">60%</div>
         </div>
 
-        <p class="my-0">Websockets</p>
-        <div class="level1">
-          <div class="skills socket">75%</div>
+        <p className="my-0">Websockets</p>
+        <div className="level1">
+          <div className="skills socket">75%</div>
         </div>
       </div>
 

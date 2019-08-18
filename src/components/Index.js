@@ -91,7 +91,7 @@ const Index = () => {
 <div className="container-fluid">
 <div className="row justify-content-center pb-3">
 <div className="col-md-12 mb-5 heading-section text-center ftco-animate">
-<h2 className="mb-5">Latest &amp; <span>Greatest</span></h2>
+<h2 className="mb-5">Latest <span>Projects</span></h2>
 </div>
 </div>
 </div>
@@ -107,10 +107,12 @@ const Index = () => {
 <div className="desc">
 <div className="top">
 {/* <span className="subheading">Web Design {12/06/2019}</span> */}
-<h2 className="mb-4"><a href="work.html">Midway</a></h2>
+<h2 className="mb-4"><a href="work.html">ICamp</a></h2>
 </div>
 <div className="absolute">
-<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
+<p>Earliest Full Stack Web Application created using MongoDb,Nodejs and Express.The project was feature loaded with user authentications and rich with other
+  convenient functionalities
+</p>
 <p><a href="#" className="custom-btn">View Portfolio</a></p>
 </div>
 </div>
@@ -129,7 +131,7 @@ const Index = () => {
 <div className="desc pt-5 pl-4 pr-4 pt-lg-0 pl-lg-5 pl-xl-0 pr-xl-0">
 <div className="top">
 {/* <span className="subheading">Writing {12/06/2019}</span> */}
-<h2 className="mb-4"><a href="work.html">Workplace Office</a></h2>
+<h2 className="mb-4"><a href="work.html">MyPhoneBook</a></h2>
 </div>
 <div className="absolute">
 <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
@@ -142,16 +144,16 @@ const Index = () => {
 </div>
 <div className="container-fluid px-0 portfolio-entry">
 <div className="row no-gutters d-md-flex justify-content-start text-wrapper">
-<div className="one-half img js-fullheight" style={{backgroundImage: "url('images/work-3.jpg')"}}></div>
+<div id="thumnail" className="one-half img js-fullheight" style={{backgroundImage: "url('images/work-3.jpg')"}}></div>
 <div className="one-half half-text d-flex justify-content-end align-items-center ftco-animate">
 <div className="text-2 align-items-start d-flex">
 <div className="desc pt-5 pr-4 pl-4 pt-lg-0 pr-lg-5 pr-xl-0 pl-xl-0">
 <div className="top">
 {/* <span className="subheading">Illustration {12/06/2019}</span> */}
-<h2 className="mb-4"><a href="work.html">Jacket Leather</a></h2>
+<h2 className="mb-4"><a href="work.html">Exynos Data Labs</a></h2>
 </div>
 <div className="absolute">
-<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
+<p>An ongoing student based intiative,I am incharge of developing their website which is right now under development going live soon</p>
 <p><a href="#" className="custom-btn">View Portfolio</a></p>
 </div>
 </div>
@@ -171,7 +173,7 @@ const Index = () => {
 <div className="desc">
 <div className="top">
 {/* <span className="subheading">Application {12/06/2019}</span> */}
-<h2 className="mb-4"><a href="work.html">Topless</a></h2>
+<h2 className="mb-4"><a href="work.html">VideoFind</a></h2>
 </div>
 <div className="absolute">
 <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove.</p>
@@ -185,14 +187,14 @@ const Index = () => {
 </div>
 </div>
 </div>
-<div className="container-fluid px-0 portfolio-entry">
+{/* <div className="container-fluid px-0 portfolio-entry">
 <div className="row no-gutters d-md-flex justify-content-end text-wrapper">
 <div className="one-half img js-fullheight" style={{backgroundImage: "url('images/work-5.jpg')"}}></div>
 <div className="one-half half-text d-flex justify-content-end align-items-center ftco-animate">
 <div className="text align-items-center d-flex">
 <div className="desc pt-5 pl-5 pr-5 pt-lg-0 pl-lg-5 pl-xl-0 pr-xl-0">
 <div className="top">
-{/* <span className="subheading">Writing {12/06/2019}</span> */}
+<span className="subheading">Writing {12/06/2019}</span> 
 <h2 className="mb-4"><a href="work.html">Fashion Style</a></h2>
 </div>
 <div className="absolute">
@@ -203,8 +205,8 @@ const Index = () => {
 </div>
 </div>
 </div>
-</div>
-<div className="container">
+</div> */}
+{/* <div className="container">
 <div className="row no-gutters">
 <div className="col-md-12 portfolio-wrap">
 <div className="row no-gutters align-items-center">
@@ -215,7 +217,7 @@ const Index = () => {
 <div className="px-4 px-lg-4">
 <div className="desc">
 <div className="top">
-{/* <span className="subheading">Illustration {12/06/2019}</span> */}
+<span className="subheading">Illustration {12/06/2019}</span>
 <h2 className="mb-4"><a href="work.html">Prickly</a></h2>
 </div>
 <div className="absolute">
@@ -229,7 +231,7 @@ const Index = () => {
 </div>
 </div>
 </div>
-</div>
+</div> */}
 </section>
 
 {/* <div id="ftco-loader" className="show fullscreen"><svg className="circular" width="48px" height="48px"><circle className="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" /><circle className="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00" /></svg></div> */}

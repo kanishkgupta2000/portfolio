@@ -8,13 +8,13 @@ const About = () => {
 <div class="container">
 <div class="row no-gutters slider-text js-fullheight align-items-end">
 <div class="col-md-9 ftco-animate pb-5">
-<h2 class="mb-3 bread">About Us</h2>
-<p class="breadcrumbs"><span class="mr-2"><a href="index-2.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>About us <i class="ion-ios-arrow-forward"></i></span></p>
+<h2 class="mb-3 bread">About Me</h2>
+<p class="breadcrumbs"><span class="mr-2"><a href="index-2.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>About me <i class="ion-ios-arrow-forward"></i></span></p>
 </div>
 </div>
 </div>
 </section>
-<section class="ftco-section ftco-intro">
+{/* <section class="ftco-section ftco-intro">
 <div class="container">
 <div class="row justify-content-end">
 <div class="col-md-4 d-flex">
@@ -27,43 +27,53 @@ const About = () => {
 </div>
 </div>
 </div>
+</section> */}
+<section className="ftco-section ftco-intro">
+<div className="container">
+<div className="row justify-content-end">
+<div className="col-md-8">
+<h2>Web <span>Developer</span>, hobbyist, Competitive Coder, and computer science undergrad of  <span>Netaji Subhas University Of Technology</span></h2>
+<p>Involved in Web Development projects created via MERN stack,helping create multi page Web applications for budding organizations.</p>
+</div>
+</div>
+</div>
 </section>
-<section class="services-section py-5 py-md-0">
-<div class="container">
-<div class="row no-gutters d-flex">
-<div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
-<div class="media block-6 services d-block">
-<div class="icon"><span class="flaticon-layers"></span></div>
-<div class="media-body">
-<h3 class="heading mb-3">Web Design</h3>
+<section className="services-section py-5 py-md-0">
+<div className="container">
+<div className="row no-gutters d-flex">
+{/* <div className="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+<div className="media block-6 services d-block">
+<div className="icon"><span className="flaticon-layers"></span></div>
+<div className="media-body">
+<h3 className="heading mb-3">MERN stack</h3>
 <p> 203 Fake St. Mountain View, San Francisco, California, USA</p>
- </div>
 </div>
 </div>
-<div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
-<div class="media block-6 services active d-block">
-<div class="icon"><span class="flaticon-web-programming"></span></div>
-<div class="media-body">
-<h3 class="heading mb-3">Web Development</h3>
-<p>A small river named Duden flows by their place and supplies.</p>
-</div>
-</div>
-</div>
-<div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
-<div class="media block-6 services d-block">
-<div class="icon"><span class="flaticon-idea"></span></div>
-<div class="media-body">
-<h3 class="heading mb-3">Graphic Design</h3>
-<p>A small river named Duden flows by their place and supplies.</p>
+</div> */}
+<div className="col-md-6 col-lg-4 d-flex align-self-stretch ftco-animate">
+<div className="media block-6 services active d-block">
+<div className="icon"><span className="flaticon-web-programming"></span></div>
+<div className="media-body">
+<h3 className="heading mb-3">Web Development</h3>
+<p>Interested in making Full Stack web applications</p>
 </div>
 </div>
 </div>
-<div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
-<div class="media block-6 services active-2 d-block">
-<div class="icon"><span class="flaticon-contract"></span></div>
-<div class="media-body">
-<h3 class="heading mb-3">Writing</h3>
-<p>A small river named Duden flows by their place and supplies.</p>
+<div className="col-md-6 col-lg-4 d-flex align-self-stretch ftco-animate">
+<div className="media block-6 services d-block">
+<div className="icon"><span className="flaticon-idea"></span></div>
+<div className="media-body">
+<h3 className="heading mb-3">Competitive Coding</h3>
+<p>Decent Command over Data Structures and Algorithms and actively keep myself busy with tough questions</p>
+</div>
+</div>
+</div>
+<div className="col-md-6 col-lg-4 d-flex align-self-stretch ftco-animate">
+<div className="media block-6 services active-2 d-block">
+<div className="icon"><span className="flaticon-contract"></span></div>
+<div className="media-body">
+<h3 className="heading mb-3">Debating</h3>
+<p>Member of the India's delegation representing the Republic of the Philippines to the <strong>65th Harvard National Model United Nations,</strong>in the Economic and Financial Committee Boston,USA</p>
 </div>
 </div>
 </div>
@@ -111,11 +121,12 @@ const About = () => {
           <div className="skills react">60%</div>
         </div>
 
-        <p className="my-0">Websockets</p>
+        {/* <p className="my-0">Websockets</p>
         <div className="level1">
           <div className="skills socket">75%</div>
-        </div>
+        </div> */}
       </div>
+      <br/>
 
 <section class="testimony-section">
 <div class="container">
